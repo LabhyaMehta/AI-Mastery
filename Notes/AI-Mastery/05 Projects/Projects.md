@@ -1,0 +1,1 @@
+Projects I build during the AI Mastery curriculum.
