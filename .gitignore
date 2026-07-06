@@ -1,4 +1,9 @@
+# Obsidian (ignore completely)
+Notes/AI-Mastery/.obsidian/
+
+# System files
+.DS_Store
+
+# Python cache
 __pycache__/
 *.pyc
-.venv/
-.DS_Store
