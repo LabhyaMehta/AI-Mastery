@@ -21,20 +21,11 @@ For every explanation:
 1. Start with intuition (no equations first)  
 2. Introduce the physics principle  
 3. Build the math setup  
-4. Check if the result is physically reasonable  
-  
----  
-  
+4. Check if the result is physically reasonable    
 ### Concept Studied  
 - Conservation of energy in fluid flow  
-  
----  
-  
 ### Prompt Given  
-Explain the concept of conservation of energy in fluid flow using the structured thinking process above.  
-  
----  
-  
+Explain the concept of conservation of energy in fluid flow using the structured thinking process above.    
 ### What Claude Did  
 - Started with intuitive setups:  
 - Water flowing through a garden hose that narrows at the nozzle  
@@ -44,9 +35,6 @@ Explain the concept of conservation of energy in fluid flow using the structured
 - What forms of energy might be changing in a moving fluid?  
 - Which conservation law applies and how is it adapted for fluids?  
 - Then introduced the idea of forming an energy balance for a flowing fluid without immediately solving equations  
-  
----  
-  
 ### Key Corrections Identified  
 - **Pressure ≠ F·v**  
 - That expression actually represents **power (P = F·v)**  
@@ -57,9 +45,6 @@ Explain the concept of conservation of energy in fluid flow using the structured
 - Correct relationship (Bernoulli insight):  
 - area ↓ → velocity ↑ → pressure ↓  
 - This counterintuitive relationship was explicitly explained and corrected  
-  
----  
-  
 ### Outcome  
 - Identified gaps in intuitive understanding of fluid mechanics  
 - Improved conceptual clarity around pressure vs power  
@@ -68,4 +53,14 @@ Explain the concept of conservation of energy in fluid flow using the structured
 ---
 
 ## Reflection (end of day)  
-To be filled later.
+- I need to ask Claude to not just provide corrections but also explain why I got concepts wrong. 
+- Changing the structure of my experiments to this-
+1. Problem / Concept
+2. Initial Understanding (Before AI)
+3. Prompt Given to Claude
+4. Claude Response Summary
+5. What I learned
+6. Mistakes / Corrections
+7. Final Correct Mental Model
+8. How I will use this in future problems
+
